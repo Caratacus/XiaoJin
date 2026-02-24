@@ -9,10 +9,10 @@
 - [x] **Task: Conductor - User Manual Verification '第一阶段：信息提取' (Protocol in workflow.md)** 77bf17c
 
 ## 第二阶段：文档建模 (Document Modeling)
-- [ ] **Task: 构建人物志**
-    - [ ] 创建 `lore/人物志.md` 并填充核心角色资料。
-- [ ] **Task: 构建世界观大纲**
-    - [ ] 创建 `lore/世界观大纲.md` 并描述地理和历史。
+- [x] **Task: 构建人物志** d96bf64
+    - [x] 创建 `lore/人物志.md` 并填充核心角色资料。
+- [x] **Task: 构建世界观大纲** 5930b23
+    - [x] 创建 `lore/世界观大纲.md` 并描述地理和历史。
 - [ ] **Task: Conductor - User Manual Verification '第二阶段：文档建模' (Protocol in workflow.md)**
 
 ## 第三阶段：质量复核 (Quality Review)
