@@ -1,12 +1,12 @@
 # Implementation Plan: 分析当前故事集
 
-## 第一阶段：信息提取 (Information Extraction)
+## 第一阶段：信息提取 (Information Extraction) [checkpoint: 77bf17c]
 - [x] **Task: 关键词扫描** aa8cc8e
     - [x] 编写脚本提取各章节中出现的专有名词（人名、地名、道具名）。
     - [x] 汇总核心角色的初登场及关键转变情节。
 - [x] **Task: 设定整理** aa8cc8e
     - [x] 整理“魔法”和“发明”的逻辑关系。
-- [ ] **Task: Conductor - User Manual Verification '第一阶段：信息提取' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification '第一阶段：信息提取' (Protocol in workflow.md)** 77bf17c
 
 ## 第二阶段：文档建模 (Document Modeling)
 - [ ] **Task: 构建人物志**
