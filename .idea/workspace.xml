@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleUserHome" value="$USER_HOME$/.gradle" />
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/spring-boot-gradle" value="1481899210310" />
+        <entry key="$USER_HOME$/Desktop/springboot-hibernateplus-gradle/springboot-hibernateplus-gradle" value="1481908161634" />
+        <entry key="$USER_HOME$/workspace/advance-scaffold/advance-scaffold" value="1483927763000" />
+        <entry key="D:/Workspace/GitSpace/advance-scaffold/advance-scaffold" value="1482012793296" />
+        <entry key="D:/Workspace/GitSpace/springboot-hibernateplus-gradle/springboot-hibernateplus-gradle" value="1481908161634" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/workspaces/github/Crown2" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/github/RuoYi-fast" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/github/springcloud-bytetcc-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/gitosc/Crown" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/gitosc/Crown2" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/gitosc/EasyWeb" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/gitosc/crown-ww" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/gitosc/education-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/gitosc/mybatis-plus" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/wanxue/GK-SERVER" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/wanxue/crm-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspaces/wanxue/education-server" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/develop/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{}</component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
