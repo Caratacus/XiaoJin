@@ -1,23 +1,44 @@
-# Track Spec: 分析当前故事集，构建初步人物志与世界观大纲
+# Specification: Content Continuity & Documentation Update - Xiao Jin Story Collection
 
-## 概述
-为了确保后续创作的一致性，本项目需要一份详尽的底层资料库。本 Track 的目标是系统地扫描现有的 57 集故事，提取出所有关键的人物设定、世界观规则和地理信息。
+## 1. Overview
+This track focuses on the comprehensive review and documentation of the "Xiao Jin Story Collection" (小玉米粒王国英雄小金). The goal is to ensure narrative continuity, maintain high-quality suspense at the end of each episode, and update key project documentation (README, Character Profiles) to reflect the story's progression. This involves a systematic reading of each episode, creating a detailed task list to track plot points and inconsistencies, and refining the lore.
 
-## 功能需求
-- **人物志分析**：
-    - 提取核心角色的外形特征、性格、动机和成长弧线。
-    - 梳理角色之间的亲缘、友谊或竞争关系。
-- **世界观大纲**：
-    - 记录王国的地理结构（如：中心广场、回声山谷、黑暗魔法界）。
-    - 总结核心设定（如：阳光露珠的作用、声音露珠的规则、黑玉米一族的起源）。
-- **创作灵感库**：
-    - 提取尚未深入展开的线索（伏笔）。
+## 2. Functional Requirements
 
-## 验收标准
-1. 在 `lore/人物志.md` 中产出至少包含 6 位核心角色的详细档案。
-2. 在 `lore/世界观大纲.md` 中产出包含至少 5 个主要场景和 3 条核心规则的文档。
-3. 文档风格需符合《产品准则》中的“质感细腻”和“微缩奇观”要求。
+### 2.1 Episode Analysis & Task Listing
+- **Read & Analyze:** Systematically read each episode of the story collection.
+- **Task List Creation:** For each episode, generate a structured "Task List" that captures:
+    - **Key Plot Points:** Major events and character decisions.
+    - **Character Developments:** Significant growth, changes in relationships, or new traits.
+    - **Continuity Checks:** Verification of consistency with previous episodes (e.g., character behavior, world rules).
+    - **Suspense/Cliffhanger:** Identification or refinement of the episode's ending to ensure a compelling hook for the next part.
+    - **Style Check:** Verify narrative tone consistency (e.g., "wisdom, courage, inclusivity").
+    - **Documentation Needs:** Specific updates required for `lore/人物志.md` or `README.md` based on the episode's content.
 
-## 超出范围
-- 本 Track 不包含新集数的创作。
-- 本 Track 不包含对原始 docx 文件的修改。
+### 2.2 Inconsistency Management
+- **Issue Logging:** Create a "Fix List" or "Issue Log" for each episode to document any identified plot holes, character contradictions, or timeline errors.
+- **Resolution Strategy:** Address minor inconsistencies immediately where possible, but primarily log them for a dedicated "polishing" phase to ensure a cohesive narrative flow without disrupting the initial review process.
+
+### 2.3 Documentation Updates
+- **Character Profiles (`lore/人物志.md`):**
+    - **Refine Descriptions:** Update existing character profiles to reflect new developments, emotional arcs, or revealed backstories.
+    - **Consistency:** Ensure character traits and motivations remain consistent with the latest plot twists.
+- **README (`README.md`):**
+    - **Update Status:** Reflect the current progress of the story review and documentation.
+    - **World-Building:** Ensure any new world rules (magic, geography) introduced in the episodes are accurately reflected in the project overview.
+
+## 3. Non-Functional Requirements
+- **Language:** All documentation and task lists must be in **Chinese (Simplified)** to match the project's primary language.
+- **Format:** Use Markdown for all logs, lists, and documentation updates.
+- **Tone:** Maintain the "wisdom, courage, and inclusivity" tone of the original story in all documentation.
+
+## 4. Acceptance Criteria
+- [ ] A structured "Task List" is created for every reviewed episode, covering plot, character, continuity, suspense, and style.
+- [ ] An "Issue Log" is maintained for tracking continuity errors and inconsistencies.
+- [ ] `lore/人物志.md` is updated to reflect character growth and plot developments from the reviewed episodes.
+- [ ] `README.md` is updated to align with the current state of the story and world-building.
+- [ ] All outputs are in Simplified Chinese.
+
+## 5. Out of Scope
+- Writing entirely new episodes (this track focuses on review, refinement, and documentation of existing content).
+- Major rewriting of the story structure (unless critical for continuity).

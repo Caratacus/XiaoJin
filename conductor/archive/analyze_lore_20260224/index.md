@@ -1,1 +1,5 @@
-# Track analyze_lore_20260224 Context\n\n- [Specification](./spec.md)\n- [Implementation Plan](./plan.md)\n- [Metadata](./metadata.json)
+# Track analyze_lore_20260224 Context
+
+- [Specification](./spec.md)
+- [Implementation Plan](./plan.md)
+- [Metadata](./metadata.json)

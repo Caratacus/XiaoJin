@@ -1,1 +1,8 @@
-{"track_id": "analyze_lore_20260224", "type": "feature", "status": "new", "created_at": "2026-02-24T07:50:00Z", "updated_at": "2026-02-24T07:50:00Z", "description": "分析当前故事集，构建初步人物志与世界观大纲"}
+{
+  "track_id": "analyze_lore_20260224",
+  "type": "chore",
+  "status": "new",
+  "created_at": "2026-02-25T11:45:00Z",
+  "updated_at": "2026-02-25T11:45:00Z",
+  "description": "阅读小金故事集，设置每一集任务列表，保证每一集的故事都有衔接过程，末尾留下悬念，每一集的内容都是精心编写后的结果，最后更新人物志，readme等其他文件，保持故事线统一"
+}
