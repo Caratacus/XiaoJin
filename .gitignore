@@ -1,0 +1,94 @@
+# ========================================
+# IDE 配置文件
+# ========================================
+
+# JetBrains IDE (IntelliJ IDEA, PyCharm, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ========================================
+# Python 相关
+# ========================================
+
+# 字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ========================================
+# 项目特定文件
+# ========================================
+
+# Word 文档（源文件在其他格式）
+*.docx
+*.doc
+
+# 临时分析报告
+*_report.md
+*_scan*.md
+!conductor/analysis/*.md
+
+# ========================================
+# 本地配置文件
+# ========================================
+
+# Claude Code 本地设置
+.claude/settings.local.json
+
+# ========================================
+# 系统文件
+# ========================================
+
+# Thumbs.db (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ========================================
+# 备份和临时文件
+# ========================================
+
+*.bak
+*.backup
+*.tmp
+*.temp
+*~
+
+# ========================================
+# 日志文件
+# ========================================
+
+*.log
+logs/
