@@ -1,25 +1,26 @@
-# Episode 43 Analysis: 第一场对决：愤怒浓汤 VS 快乐清泉
+# Episode 42 Analysis: 寻找“真心泉水”
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Battle 1: Angry Soup vs. Sunshine Porridge.
-- [x] Result: Xiao Jin wins.
-- [x] Resolution: Xiao Cai healed.
+- [x] Obstacle: Greedy Mist.
+- [x] Guardian: Stone Frog.
+- [x] Test: Make a dish (Nature's Breeze).
+- [x] Resolution: Water acquired.
 
 ### Character Developments
-- **Xiao Jin:** Winner.
-- **Black Flame:** Sore loser.
+- **Xiao Jin:** Chef.
+- **Stone Frog:** Ally.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Black Flame plots revenge.
-- **Hook:** Sets up Ep 44.
+- **Current Ending:** Returning for Battle 1.
+- **Hook:** Sets up Ep 43.
 
 ### Documentation Updates Needed
-- *None.*
+- **`lore/人物志.md`:** Add **Stone Frog**.
 
 ## 2. Issue Log
 - *None*

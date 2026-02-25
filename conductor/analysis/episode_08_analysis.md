@@ -1,32 +1,28 @@
-# Episode 08 Analysis: 黑暗甲虫大军之宽恕之战 (Part 2)
+# Episode 07 Analysis: 黑暗甲虫大军之卷土重来 (Part 1)
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Crisis: Dark Beetles return (Evening) with shields.
+- [x] Crisis: Dark Beetle Army invasion (Daytime).
 - [x] Tactics:
-    1.  Earth Drums (Sonic).
-    2.  Swaying Maze (Visual confusion).
-    3.  Firefly Lighthouse (Misdirection).
-- [x] Climax: General "Black Flash" (Heishan) solo raid.
-- [x] Confrontation: Xiao Jin traps him -> Releases him -> Gives seeds.
-- [x] Resolution: Beetles reform, become "Black Flash" (Heishan) allies.
+    1.  Slide Attack (Kernels as projectiles).
+    2.  Dust Fog (Ants).
+    3.  Sunlight Reflection (Blinding light).
+- [x] Resolution: Beetles retreat.
 
 ### Character Developments
-- **Xiao Jin:** "Forgiveness is power."
-- **Black Flash (Heishan):** Villain -> Ally.
+- **Xiao Jin:** Tactical Commander.
 
 ### Continuity Checks
-- **Consistency:** Consistent.
-- **World Building:** "Black Flash" is a key character for later arcs (e.g., Chef in Ep 38+).
+- **Consistency:** Standard battle episode.
+- **World Building:** N/A.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Ultimate Peace.
-- **Critique:** No hook for Ep 9 (The "Great Crisis").
-- **Suggestion:** Hint at the "Withered Shadow" or the King's failing health (leading to Ep 9).
+- **Current Ending:** Victory, but Beetles escape.
+- **Hook:** Sets up the return in Ep 8.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Update **Dark Beetles** to **Black Flash/Allies**. Add **Black Flash (Heishan)** profile.
+- **`lore/人物志.md`:** Add **Dark Beetles** (Villain Phase).
 
 ## 2. Issue Log
 - *None*

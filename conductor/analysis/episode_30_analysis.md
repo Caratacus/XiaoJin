@@ -1,25 +1,25 @@
-# Episode 30 Analysis: 愤怒的扫帚与“不懂规矩”的客人
+# Episode 29 Analysis: 会变脸的石头与“我不怕”的谎言
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Plot: Sloppy King (Hedgehog).
-- [x] Resolution: Cleaning him.
-- [x] Major Event: Start of "Rainbow Bridge" Arc (7 Gems).
+- [x] Plot: Coward Stone.
+- [x] Test: Admit fear.
+- [x] Resolution: Stone turns to gem.
 
 ### Character Developments
-- **Xiao Jin:** Empathy.
-- **Hedgehog:** New ally.
+- **Xiao Jin:** Vulnerability.
+- **Xiao Cai:** Emotional maturity.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Quest for Red Gem (Volcano).
-- **Hook:** Sets up Ep 31.
+- **Current Ending:** "Sloppy King" in kingdom.
+- **Hook:** Sets up Ep 30.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Hedgehog**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

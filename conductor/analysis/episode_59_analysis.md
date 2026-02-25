@@ -1,26 +1,27 @@
-# Episode 59 Analysis: 大航海时代：湛蓝之谜（下）
+# Episode 58 Analysis: 大航海时代：湛蓝之谜（上）
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Tech: Recycled Plastic Bricks.
-- [x] Ally: One-Eyed Guard (Robot).
-- [x] Reward: Flying Seed.
-- [x] Crisis: Xiao Yu's memory fading.
+- [x] Tech: "Dewdrop Ship" with "Fire Seed" engine.
+- [x] Ally: Lotus Hermit.
+- [x] Crisis: Chemical Foam.
+- [x] Solution: Charcoal Filter.
 
 ### Character Developments
-- **One-Eyed Guard:** Robot Ally.
-- **Xiao Yu:** Fading.
+- **Xiao Jin:** Captain.
+- **Black Flame:** Engineer.
+- **Lotus Hermit:** Mentor.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Flight to Sky.
-- **Hook:** Sets up Ep 60.
+- **Current Ending:** Plastic Continent.
+- **Hook:** Sets up Ep 59.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **One-Eyed Guard**, **Lotus King**.
+- **`lore/人物志.md`:** Add **Lotus Hermit**.
 
 ## 2. Issue Log
 - *None*

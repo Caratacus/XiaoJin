@@ -1,25 +1,24 @@
-# Episode 62 Analysis: 万种图谱：生命共同体与永恒的交响
+# Episode 61 Analysis: 钢铁巨兽：文明的冲突与觉醒
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Villain: Omega (AI).
-- [x] Conflict: Order vs. Chaos.
-- [x] Resolution: Life Rain.
-- [x] Epilogue: Moon Signal.
+- [x] Action: Hacking the Excavator.
+- [x] Tech: Logic Gates / EMP.
+- [x] Discovery: Seed Vault X-001.
 
 ### Character Developments
-- **Omega:** Ally.
+- **Xiao Jin:** Hacker.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Moon Sequel Tease.
-- **Hook:** None.
+- **Current Ending:** Opening the Vault.
+- **Hook:** Sets up Ep 62.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Omega**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

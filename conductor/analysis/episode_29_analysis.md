@@ -1,22 +1,22 @@
-# Episode 29 Analysis: 会变脸的石头与“我不怕”的谎言
+# Episode 28 Analysis: 只会说“不知道”的勇敢魔法
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Plot: Coward Stone.
-- [x] Test: Admit fear.
-- [x] Resolution: Stone turns to gem.
+- [x] Plot: Wisdom Book Tree.
+- [x] Test: Humility ("I don't know").
+- [x] Resolution: Books open.
 
 ### Character Developments
-- **Xiao Jin:** Vulnerability.
-- **Xiao Cai:** Emotional maturity.
+- **Xiao Jin:** Humble.
+- **Xiao Cai:** Learns humility.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** "Sloppy King" in kingdom.
-- **Hook:** Sets up Ep 30.
+- **Current Ending:** Mention of "Coward Stone".
+- **Hook:** Sets up Ep 29.
 
 ### Documentation Updates Needed
 - *None.*

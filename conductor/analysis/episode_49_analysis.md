@@ -1,23 +1,24 @@
-# Episode 49 Analysis: 冰与火的厨房
+# Episode 48 Analysis: 被阳光遗忘的黑色泥土
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Prep: Ice vs. Fire.
-- [x] Contrast: Cruelty vs. Love.
+- [x] Backstory: Shadow Canyon.
+- [x] Motive: Survival -> Jealousy.
+- [x] Promise: Xiao Jin vows to help.
 
 ### Character Developments
-- **Xiao Dou:** Victim.
+- **Xiao Jin:** Understanding.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Battle starts.
-- **Hook:** Sets up Ep 50.
+- **Current Ending:** Battle 3 prep.
+- **Hook:** Sets up Ep 49.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Xiao Dou**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

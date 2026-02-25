@@ -1,26 +1,25 @@
-# Episode 31 Analysis: 暴躁的喷火龙与“牙齿大扫除”
+# Episode 30 Analysis: 愤怒的扫帚与“不懂规矩”的客人
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Quest: Red Gem (1/7).
-- [x] Monster: Fire Dragon.
-- [x] Problem: Toothache.
-- [x] Resolution: Pulling tooth.
+- [x] Plot: Sloppy King (Hedgehog).
+- [x] Resolution: Cleaning him.
+- [x] Major Event: Start of "Rainbow Bridge" Arc (7 Gems).
 
 ### Character Developments
-- **Xiao Jin:** Doctor.
-- **Dragon:** Ally.
+- **Xiao Jin:** Empathy.
+- **Hedgehog:** New ally.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Next: Orange Gem.
-- **Hook:** Sets up Ep 32.
+- **Current Ending:** Quest for Red Gem (Volcano).
+- **Hook:** Sets up Ep 31.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Fire Dragon**.
+- **`lore/人物志.md`:** Add **Hedgehog**.
 
 ## 2. Issue Log
 - *None*

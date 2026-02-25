@@ -1,25 +1,25 @@
-# Episode 44 Analysis: 黑焰的阴谋与迷幻蘑菇
+# Episode 43 Analysis: 第一场对决：愤怒浓汤 VS 快乐清泉
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Plot: Psychedelic Mushroom (Poison).
-- [x] Conflict: Black Flame's hesitation.
-- [x] Action: Xiao Jin seeks counter-recipe.
+- [x] Battle 1: Angry Soup vs. Sunshine Porridge.
+- [x] Result: Xiao Jin wins.
+- [x] Resolution: Xiao Cai healed.
 
 ### Character Developments
-- **Black Flame:** Complexity.
-- **Xiao Tan:** Conscience.
+- **Xiao Jin:** Winner.
+- **Black Flame:** Sore loser.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Going to Library.
-- **Hook:** Sets up Ep 45.
+- **Current Ending:** Black Flame plots revenge.
+- **Hook:** Sets up Ep 44.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Xiao Tan**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

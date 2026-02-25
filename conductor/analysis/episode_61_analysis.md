@@ -1,24 +1,25 @@
-# Episode 61 Analysis: 钢铁巨兽：文明的冲突与觉醒
+# Episode 60 Analysis: 天空图书馆：智慧的永恒
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Action: Hacking the Excavator.
-- [x] Tech: Logic Gates / EMP.
-- [x] Discovery: Seed Vault X-001.
+- [x] Setting: Sky Library.
+- [x] Tech: Memory Digitization.
+- [x] Crisis: Ice Beast.
+- [x] Discovery: Ground Signal.
 
 ### Character Developments
-- **Xiao Jin:** Hacker.
+- **Xiao Yu:** Digitized.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Opening the Vault.
-- **Hook:** Sets up Ep 62.
+- **Current Ending:** Steel Beast signal.
+- **Hook:** Sets up Ep 61.
 
 ### Documentation Updates Needed
-- *None.*
+- **`lore/人物志.md`:** Update **Xiao Yu**.
 
 ## 2. Issue Log
 - *None*

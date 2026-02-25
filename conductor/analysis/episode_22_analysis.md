@@ -1,26 +1,26 @@
-# Episode 22 Analysis: 讨厌鬼“铁大钳”与沙子里的金子
+# Episode 21 Analysis: 风之谷的“不许赢”游戏
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Crisis: Underground blockage.
-- [x] Solution: Hire rude expert "Iron Pincers".
-- [x] Lesson: "Heart Sieve" - Learn skills, ignore rudeness.
+- [x] Setting: Valley of Wind.
+- [x] Game: Transport "Rainbow Bubble". Rule: Competition breaks it, Cooperation moves it.
+- [x] Resolution: Bubble bursts into candy.
 
 ### Character Developments
-- **Xiao Jin:** Learning from enemies.
-- **Iron Pincers:** Rude expert.
+- **Xiao Jin:** Leader of cooperation.
+- **Wind Spirit:** Guide.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
-- **Timeline:** Xiao Cai Day 7.
+- **Timeline:** Xiao Cai Day 1.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Half a Treasure Map found (Red Forest).
-- **Hook:** Sets up Ep 23.
+- **Current Ending:** Underground "Snoring".
+- **Hook:** Sets up Ep 22.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Iron Pincers**.
+- **`lore/人物志.md`:** Add **Wind Spirit**.
 
 ## 2. Issue Log
 - *None*

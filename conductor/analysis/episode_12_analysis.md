@@ -1,28 +1,26 @@
-# Episode 12 Analysis: 七彩琥珀与水下古城
+# Episode 11 Analysis: 蓝色迷雾与沉睡的危机
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Mystery: Legend of "Ancestral Rainbow Corn".
-- [x] Action: Underwater dive with "Bubble Sub".
-- [x] Discovery: Underwater City (Pot).
-- [x] Revelation: Rainbow Corn = Diversity (Genetic bank).
-- [x] Resolution: Xiao Jin takes one seed to plant.
+- [x] Crisis: "Blue Mist" (Sleeping Gas) from Water Hyacinth.
+- [x] Investigation: Expedition to the "Sea" (Pond).
+- [x] Solution: Reed Fence to corral the invasive plants.
+- [x] Discovery: "Rainbow Seed" in amber.
 
 ### Character Developments
-- **Xiao Jin:** Chooses wisdom over treasure.
-- **Water Spider / Crab:** New allies.
+- **Xiao Jin:** Leader of the "All-Star Team".
 
 ### Continuity Checks
 - **Consistency:** Consistent.
-- **World Building:** "Atlantis" myth confirmed.
+- **World Building:** Pond Biome.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Seed planted.
-- **Hook:** What will grow? (Xiao Cai).
+- **Current Ending:** Discovery of the mysterious Rainbow Seed.
+- **Hook:** What is inside the amber?
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Water Spider**, **Crab**. Update **Xiao Cai** (Origin story).
+- **`lore/人物志.md`:** Add **Water Strider** (Ally). Add **Rainbow Seed** (Item).
 
 ## 2. Issue Log
 - *None*

@@ -1,24 +1,26 @@
-# Episode 34 Analysis: 嫉妒的荆棘林与“赞美的魔法”
+# Episode 33 Analysis: 总是下雨的沙漠与“静静的伞”
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Quest: Green Gem (4/7).
-- [x] Test: Humility/Praise.
-- [x] Resolution: Thorns open.
+- [x] Quest: Yellow Gem (3/7).
+- [x] Guardian: Ball Ball.
+- [x] Problem: Crying.
+- [x] Resolution: Silent Company.
 
 ### Character Developments
-- **Xiao Cai:** Humility.
+- **Xiao Jin:** Comforter.
+- **Ball Ball:** Ally/Gem.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Next: Cyan Gem.
-- **Hook:** Sets up Ep 35.
+- **Current Ending:** Next: Green Gem.
+- **Hook:** Sets up Ep 34.
 
 ### Documentation Updates Needed
-- *None.*
+- **`lore/人物志.md`:** Add **Ball Ball**.
 
 ## 2. Issue Log
 - *None*

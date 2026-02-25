@@ -1,24 +1,24 @@
-# Episode 35 Analysis: 静悄悄图书馆与“大嗓门”的危机
+# Episode 34 Analysis: 嫉妒的荆棘林与“赞美的魔法”
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Quest: Cyan Gem (5/7).
-- [x] Test: Silence.
-- [x] Resolution: "Please" (Whispered).
+- [x] Quest: Green Gem (4/7).
+- [x] Test: Humility/Praise.
+- [x] Resolution: Thorns open.
 
 ### Character Developments
-- **Xiao Cai:** Manners.
+- **Xiao Cai:** Humility.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Next: Blue Gem (Lazy Sofa).
-- **Hook:** Sets up Ep 36.
+- **Current Ending:** Next: Cyan Gem.
+- **Hook:** Sets up Ep 35.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Decibel Monster**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

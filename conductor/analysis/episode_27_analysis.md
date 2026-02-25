@@ -1,25 +1,27 @@
-# Episode 27 Analysis: 急性子的“七彩弟弟”与回声荆棘
+# Episode 26 Analysis: 气鼓鼓的“沸腾泉”与情绪翻译机
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Plot: Dark Tunnel vs. Flower Path.
-- [x] Obstacle: Echo Thorns (React to anger).
-- [x] Resolution: Politeness/Patience.
+- [x] Quest: "Patience Water" for Time Seed.
+- [x] Obstacle: Boiling Spring (Red Pufferfish angry).
+- [x] Solution: "Magic Sentence" ("I am angry because...").
+- [x] Resolution: Spring cools.
 
 ### Character Developments
-- **Xiao Jin:** Role Model.
-- **Xiao Cai:** Learns patience.
+- **Xiao Jin:** Emotional Coach.
+- **Red Pufferfish:** Ally.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
+- **Timeline:** Xiao Cai Day 35.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Time Seed grows into "Book Tree".
-- **Hook:** Sets up Ep 28.
+- **Current Ending:** Fork in road (Flower vs. Dark).
+- **Hook:** Sets up Ep 27.
 
 ### Documentation Updates Needed
-- *None.*
+- **`lore/人物志.md`:** Add **Red Pufferfish**.
 
 ## 2. Issue Log
 - *None*

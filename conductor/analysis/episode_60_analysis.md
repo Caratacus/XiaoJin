@@ -1,25 +1,26 @@
-# Episode 60 Analysis: 天空图书馆：智慧的永恒
+# Episode 59 Analysis: 大航海时代：湛蓝之谜（下）
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Setting: Sky Library.
-- [x] Tech: Memory Digitization.
-- [x] Crisis: Ice Beast.
-- [x] Discovery: Ground Signal.
+- [x] Tech: Recycled Plastic Bricks.
+- [x] Ally: One-Eyed Guard (Robot).
+- [x] Reward: Flying Seed.
+- [x] Crisis: Xiao Yu's memory fading.
 
 ### Character Developments
-- **Xiao Yu:** Digitized.
+- **One-Eyed Guard:** Robot Ally.
+- **Xiao Yu:** Fading.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Steel Beast signal.
-- **Hook:** Sets up Ep 61.
+- **Current Ending:** Flight to Sky.
+- **Hook:** Sets up Ep 60.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Update **Xiao Yu**.
+- **`lore/人物志.md`:** Add **One-Eyed Guard**, **Lotus King**.
 
 ## 2. Issue Log
 - *None*

@@ -1,25 +1,23 @@
-# Episode 50 Analysis: 第三场对决：冰冷刺身 VS 温暖阳光粥
+# Episode 49 Analysis: 冰与火的厨房
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Battle 3: Ice vs. Sun.
-- [x] Result: Sun melts Ice.
-- [x] Redemption: Xiao Tan/Dou healed.
+- [x] Prep: Ice vs. Fire.
+- [x] Contrast: Cruelty vs. Love.
 
 ### Character Developments
-- **Xiao Jin:** Saviour.
-- **Xiao Tan/Dou:** Reformed.
+- **Xiao Dou:** Victim.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Black Flame's reaction.
-- **Hook:** Sets up Ep 51.
+- **Current Ending:** Battle starts.
+- **Hook:** Sets up Ep 50.
 
 ### Documentation Updates Needed
-- *None.*
+- **`lore/人物志.md`:** Add **Xiao Dou**.
 
 ## 2. Issue Log
 - *None*

@@ -1,27 +1,28 @@
-# Episode 14 Analysis: 钢铁巨兽与沉睡的山神
+# Episode 13 Analysis: 彩虹花粉与天空的呜咽
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Crisis: Human Excavators ("Iron Monsters").
-- [x] Discovery: "Mountain God" is a giant Tortoise.
-- [x] Strategy: Underground Swamp Trap.
-- [x] Resolution: Tortoise wakes; Humans declare "Nature Reserve".
+- [x] Growth: Rainbow Seed grows -> Xiao Cai (implied/seedling).
+- [x] Event: "Rainbow Pollen" grants Xiao Jin "Communication with Nature".
+- [x] Crisis: Red Kestrel trapped in net.
+- [x] Solution: Xiao Jin convinces insects to save their predator (Balance).
+- [x] Resolution: Kestrel saved.
 
 ### Character Developments
-- **Xiao Jin:** Strategic defense against tech.
-- **Tortoise:** Ancient Guardian.
+- **Xiao Jin:** Gains "Communication" ability (temporary?).
+- **Red Kestrel:** Becomes Guardian.
 
 ### Continuity Checks
-- **Consistency:** Consistent.
-- **World Building:** Kingdom becomes "Protected Area" (Plot armor).
+- **Consistency:** Ecological theme strong.
+- **World Building:** Human interference (Nets).
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Distress balloon from North.
-- **Hook:** "Ice... Help..."
+- **Current Ending:** Sound of "Iron Monsters" (Excavators).
+- **Hook:** Immediate danger for Ep 14.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Tortoise**.
+- **`lore/人物志.md`:** Add **Red Kestrel**. Note **Xiao Jin's** "Communication" ability.
 
 ## 2. Issue Log
 - *None*

@@ -1,28 +1,26 @@
-# Episode 20 Analysis: 气呼呼的“酸柠檬”与意想不到的风景
+# Episode 19 Analysis: 向日葵之巅与“第二名”的勋章
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Event: Rolling Race.
-- [x] Result: Xiao Jin loses to DunDun. Becomes angry.
-- [x] Lesson: Finding the "Four-Leaf Clover" in failure.
-- [x] **Major Event:** Xiao Cai hatches!
+- [x] Event: Sunflower Climbing Race.
+- [x] Result: Xiao Jin loses to "Flash" (Cricket).
+- [x] Lesson: "Transparent Mirror" shows his effort was the real prize.
 
 ### Character Developments
-- **Xiao Jin:** Emotional regulation.
-- **Xiao Cai:** **BORN.**
-- **DunDun:** New character.
+- **Xiao Jin:** Sportsmanship.
+- **Flash:** New character.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
-- **Timeline:** Matches the "Day 56" header.
+- **Timeline:** Xiao Cai is hatching (Day 49).
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Invitation to "Valley of Wind".
-- **Hook:** Sets up Ep 21.
+- **Current Ending:** Sighting of a "Flying Castle".
+- **Hook:** Sets up Ep 21? (Valley of Wind/Floating).
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Update **Xiao Cai** (Status: Active). Add **DunDun**.
+- **`lore/人物志.md`:** Add **Flash**.
 
 ## 2. Issue Log
 - *None*

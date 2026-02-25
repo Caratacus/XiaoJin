@@ -1,26 +1,26 @@
-# Episode 11 Analysis: 蓝色迷雾与沉睡的危机
+# Episode 10 Analysis: 金色奇迹重生
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Crisis: "Blue Mist" (Sleeping Gas) from Water Hyacinth.
-- [x] Investigation: Expedition to the "Sea" (Pond).
-- [x] Solution: Reed Fence to corral the invasive plants.
-- [x] Discovery: "Rainbow Seed" in amber.
+- [x] Setting: 3 Harvests later. Memorial service.
+- [x] Event: "Bi-color Full Moon".
+- [x] Miracle: Dewdrop Medal melts. Earth energy + Gratitude = Resurrection.
+- [x] Result: Xiao Jin returns as a youth with old wisdom.
 
 ### Character Developments
-- **Xiao Jin:** Leader of the "All-Star Team".
+- **Xiao Jin:** Resurrected. **New Trait:** Dual Perspective (Youthful energy, Ancient wisdom).
 
 ### Continuity Checks
-- **Consistency:** Consistent.
-- **World Building:** Pond Biome.
+- **Consistency:** Shifts to High Fantasy/Magical Realism.
+- **World Building:** "Rebirth" is possible under specific conditions.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Discovery of the mysterious Rainbow Seed.
-- **Hook:** What is inside the amber?
+- **Current Ending:** Celebration.
+- **Hook:** "Our adventure is just beginning." (Soft hook).
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Water Strider** (Ally). Add **Rainbow Seed** (Item).
+- **`lore/人物志.md`:** Update **Xiao Jin** (Status: Alive/Reborn). Note the "Dual Perspective".
 
 ## 2. Issue Log
 - *None*

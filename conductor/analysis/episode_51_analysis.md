@@ -1,25 +1,25 @@
-# Episode 51 Analysis: 动摇的黑暗魔法界
+# Episode 50 Analysis: 第三场对决：冰冷刺身 VS 温暖阳光粥
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Reaction: Black Flame furious.
-- [x] Dialogue: Trauma revealed.
-- [x] Retreat: To prepare "Overlord Feast".
-- [x] Quest: Need "Heart Sieve".
+- [x] Battle 3: Ice vs. Sun.
+- [x] Result: Sun melts Ice.
+- [x] Redemption: Xiao Tan/Dou healed.
 
 ### Character Developments
-- **Black Flame:** Tragic Villain.
+- **Xiao Jin:** Saviour.
+- **Xiao Tan/Dou:** Reformed.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Journey to Echo Valley.
-- **Hook:** Sets up Ep 52.
+- **Current Ending:** Black Flame's reaction.
+- **Hook:** Sets up Ep 51.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Heart Sieve Pot**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

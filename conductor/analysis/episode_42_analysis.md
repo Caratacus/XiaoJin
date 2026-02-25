@@ -1,26 +1,24 @@
-# Episode 42 Analysis: 寻找“真心泉水”
+# Episode 41 Analysis: 黑色战书！黑暗魔法界的挑战
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Obstacle: Greedy Mist.
-- [x] Guardian: Stone Frog.
-- [x] Test: Make a dish (Nature's Breeze).
-- [x] Resolution: Water acquired.
+- [x] Terms: Food Battle in 3 days.
+- [x] Plan: Find "True Heart Spring".
+- [x] Action: Journey to Echo Valley.
 
 ### Character Developments
-- **Xiao Jin:** Chef.
-- **Stone Frog:** Ally.
+- **Xiao Jin:** Leader.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Returning for Battle 1.
-- **Hook:** Sets up Ep 43.
+- **Current Ending:** Journey begins.
+- **Hook:** Sets up Ep 42.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Stone Frog**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

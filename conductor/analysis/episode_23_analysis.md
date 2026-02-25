@@ -1,27 +1,26 @@
-# Episode 23 Analysis: 红色森林与隐形的“超级背包”
+# Episode 22 Analysis: 讨厌鬼“铁大钳”与沙子里的金子
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Setting: Red Forest.
-- [x] Obstacle: Blade General (Mantis) & Bridge.
-- [x] Action: Copying Mantis's balance.
-- [x] Resolution: Map acquired.
+- [x] Crisis: Underground blockage.
+- [x] Solution: Hire rude expert "Iron Pincers".
+- [x] Lesson: "Heart Sieve" - Learn skills, ignore rudeness.
 
 ### Character Developments
-- **Xiao Jin:** Skill absorption.
-- **Blade General:** Obstacle.
+- **Xiao Jin:** Learning from enemies.
+- **Iron Pincers:** Rude expert.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
-- **Timeline:** Xiao Cai Day 14.
+- **Timeline:** Xiao Cai Day 7.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Map points to Echo Valley.
-- **Hook:** Sets up Ep 24.
+- **Current Ending:** Half a Treasure Map found (Red Forest).
+- **Hook:** Sets up Ep 23.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Blade General**.
+- **`lore/人物志.md`:** Add **Iron Pincers**.
 
 ## 2. Issue Log
 - *None*

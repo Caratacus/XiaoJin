@@ -1,20 +1,20 @@
-# Episode 54 Analysis: 大家一起动手！王国的团结之味
+# Episode 53 Analysis: 小金的秘密武器：“心之筛”大铁锅
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Action: Prayer/Hand-holding.
-- [x] Result: "Taste of Unity".
+- [x] Action: Filtering the Spring water.
+- [x] Problem: Need "Unity".
 
 ### Character Developments
-- **Xiao Jin:** Unifier.
+- **Xiao Jin:** Leader.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Clash.
-- **Hook:** Sets up Ep 55.
+- **Current Ending:** How to get Unity?
+- **Hook:** Sets up Ep 54.
 
 ### Documentation Updates Needed
 - *None.*

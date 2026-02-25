@@ -1,26 +1,26 @@
-# Episode 18 Analysis: 长鼻子的“大烦恼”与静静的聆听
+# Episode 17 Analysis: 翡翠藤蔓与“捷径”的代价
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Plot: Baby Elephant "Dudu" stuck in mud.
-- [x] Action: Rescue operation (Tug of war).
-- [x] Resolution: Bathing party.
+- [x] Plot: "Golden Powder" salesman (Longhorn Beetle) offers fast growth.
+- [x] Result: Fast growth = weak roots/stems + loss of "Nature Voice".
+- [x] Solution: Reinforcement + Rainbow Pollen therapy.
+- [x] Theme: No shortcuts.
 
 ### Character Developments
-- **Xiao Jin:** Empathy.
-- **Dudu:** New ally.
+- **Xiao Jin:** Wise leader.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 - **World Building:** N/A.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Dudu mentions a "Talking Mirror".
-- **Hook:** Sets up Ep 19/24? Ep 19 has a "Transparent Mirror". Ep 24 is "Heart Lake Mirror". Likely Ep 19.
+- **Current Ending:** Plan to open a "Translation School".
+- **Hook:** Sets up Ep 18? No, Ep 18 is the Elephant. The Translation School might be a background element.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Dudu**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

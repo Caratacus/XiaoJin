@@ -1,27 +1,24 @@
-# Episode 47 Analysis: 深夜的潜入行动
+# Episode 46 Analysis: 第二场对决：迷幻甜甜圈 VS 诚实南瓜饼
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Infiltration: Enemy camp.
-- [x] Healing: Xiao Tan.
-- [x] Reveal: "Place forgotten by sunlight".
-- [x] Encounter: Black Flame lets them go.
+- [x] Battle 2: Illusion vs. Reality.
+- [x] Result: Pumpkin Pie breaks the illusion.
+- [x] Observation: Xiao Jin sees a crying Black Corn.
 
 ### Character Developments
-- **Xiao Jin:** Healer.
-- **Xiao Tan:** Friend.
-- **Black Flame:** Complexity.
+- **Xiao Jin:** Observant.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Secret origin.
-- **Hook:** Sets up Ep 48.
+- **Current Ending:** Xiao Jin investigates.
+- **Hook:** Sets up Ep 47.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Xiao Tan**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

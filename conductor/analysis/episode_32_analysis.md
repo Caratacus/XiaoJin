@@ -1,24 +1,26 @@
-# Episode 32 Analysis: 诚实的南瓜田与“吹牛皮”的代价
+# Episode 31 Analysis: 暴躁的喷火龙与“牙齿大扫除”
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Quest: Orange Gem (2/7).
-- [x] Test: Honesty.
-- [x] Resolution: Truth shrinks pumpkins.
+- [x] Quest: Red Gem (1/7).
+- [x] Monster: Fire Dragon.
+- [x] Problem: Toothache.
+- [x] Resolution: Pulling tooth.
 
 ### Character Developments
-- **Xiao Cai:** Honesty.
+- **Xiao Jin:** Doctor.
+- **Dragon:** Ally.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Next: Yellow Gem.
-- **Hook:** Sets up Ep 33.
+- **Current Ending:** Next: Orange Gem.
+- **Hook:** Sets up Ep 32.
 
 ### Documentation Updates Needed
-- *None.*
+- **`lore/人物志.md`:** Add **Fire Dragon**.
 
 ## 2. Issue Log
 - *None*

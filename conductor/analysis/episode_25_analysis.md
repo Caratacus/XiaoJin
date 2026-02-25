@@ -1,27 +1,27 @@
-# Episode 25 Analysis: 巨人国与疯长的“嘀嗒藤”
+# Episode 24 Analysis: 回声山谷与神奇的“心之筛”
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Setting: Giant Kingdom (Vegetable Garden).
-- [x] Task: Weed "Tick-Tock Seedlings".
-- [x] Conflict: Procrastination leads to giant vines.
-- [x] Resolution: Hard work to cut them.
+- [x] Setting: Echo Valley.
+- [x] Monster: Copycat Beast.
+- [x] Action: "Heart Sieve" visualization.
+- [x] Resolution: Beast vanishes. Prize: "Heart Lake Mirror".
 
 ### Character Developments
-- **Xiao Jin:** Anti-procrastination.
-- **Pumpkin Grandpa:** Mentor.
+- **Xiao Jin:** Internal growth.
+- **Xiao Cai:** Rainbow Warrior power manifests.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
-- **Timeline:** Xiao Cai Day 28.
+- **Timeline:** Xiao Cai Day 21.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Need "Patience Water" for "Time Seed".
-- **Hook:** Sets up Ep 26.
+- **Current Ending:** Ticket to Giant Kingdom.
+- **Hook:** Sets up Ep 25.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Pumpkin Grandpa**.
+- *None.*
 
 ## 2. Issue Log
 - *None*

@@ -1,21 +1,21 @@
-# Episode 41 Analysis: 黑色战书！黑暗魔法界的挑战
+# Episode 40 Analysis: 失去笑容的玉米粒
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Terms: Food Battle in 3 days.
-- [x] Plan: Find "True Heart Spring".
-- [x] Action: Journey to Echo Valley.
+- [x] Crisis: Kingdom chaos.
+- [x] Analysis: Chemical weapon confirmed.
+- [x] Event: Challenge Letter received.
 
 ### Character Developments
-- **Xiao Jin:** Leader.
+- **Xiao Jin:** Resolves to fight with Science.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Journey begins.
-- **Hook:** Sets up Ep 42.
+- **Current Ending:** Reading the letter.
+- **Hook:** Sets up Ep 41.
 
 ### Documentation Updates Needed
 - *None.*

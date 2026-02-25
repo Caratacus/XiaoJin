@@ -1,21 +1,23 @@
-# Episode 40 Analysis: 失去笑容的玉米粒
+# Episode 39 Analysis: 会“施魔法”的彩色糖果
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Crisis: Kingdom chaos.
-- [x] Analysis: Chemical weapon confirmed.
-- [x] Event: Challenge Letter received.
+- [x] Escape: Smoke Bomb.
+- [x] Crisis: Xiao Cai eats "Magic Candy".
+- [x] Analysis: Chemical Test Strips -> Nerve Stimulant.
+- [x] Result: Xiao Cai corrupted.
 
 ### Character Developments
-- **Xiao Jin:** Resolves to fight with Science.
+- **Xiao Jin:** Scientist.
+- **Xiao Cai:** Victim.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Reading the letter.
-- **Hook:** Sets up Ep 41.
+- **Current Ending:** Xiao Cai angry.
+- **Hook:** Sets up Ep 40.
 
 ### Documentation Updates Needed
 - *None.*

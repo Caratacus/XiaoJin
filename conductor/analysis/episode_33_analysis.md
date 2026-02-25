@@ -1,26 +1,24 @@
-# Episode 33 Analysis: 总是下雨的沙漠与“静静的伞”
+# Episode 32 Analysis: 诚实的南瓜田与“吹牛皮”的代价
 
 ## 1. Task List
 
 ### Key Plot Points
-- [x] Quest: Yellow Gem (3/7).
-- [x] Guardian: Ball Ball.
-- [x] Problem: Crying.
-- [x] Resolution: Silent Company.
+- [x] Quest: Orange Gem (2/7).
+- [x] Test: Honesty.
+- [x] Resolution: Truth shrinks pumpkins.
 
 ### Character Developments
-- **Xiao Jin:** Comforter.
-- **Ball Ball:** Ally/Gem.
+- **Xiao Cai:** Honesty.
 
 ### Continuity Checks
 - **Consistency:** Consistent.
 
 ### Suspense/Cliffhanger
-- **Current Ending:** Next: Green Gem.
-- **Hook:** Sets up Ep 34.
+- **Current Ending:** Next: Yellow Gem.
+- **Hook:** Sets up Ep 33.
 
 ### Documentation Updates Needed
-- **`lore/人物志.md`:** Add **Ball Ball**.
+- *None.*
 
 ## 2. Issue Log
 - *None*
