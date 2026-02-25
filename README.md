@@ -86,7 +86,12 @@
 │   ├── 世界观大纲.md     # 地理、历史年表与物理规则
 │   └── 设定逻辑初稿.md   # 发明原理与故事核心逻辑
 ├── conductor/analysis/ # 每一集的详细分析报告
+├── scripts/            # Python 分析工具
+│   └── analysis/       # 风格检查和一致性验证脚本
+├── openspec/           # OpenSpec 变更管理
+│   └── archive/        # 已完成的变更归档
 ├── GEMINI.md           # 项目核心上下文
+├── CLAUDE.md           # AI 工作指南和写作规范
 └── README.md           # 项目说明书 (本文件)
 ```
 
@@ -109,6 +114,44 @@
 2.  **第10集** 是关键转折点（重生）。
 3.  **第38集** 开启科学对抗魔法的新篇章。
 4.  **第58集** 以后进入宏大的科幻叙事。
+
+---
+
+## 🔧 质量保证与工具
+
+本项目配备了完整的自动化分析工具，确保故事质量和一致性：
+
+### Python 分析工具
+```bash
+# 运行完整的故事内容分析
+python scripts/analysis/run_scan.py
+
+# 检查故事风格统一性
+python scripts/analysis/run_style_check.py 小金故事集
+
+# 检测子章节划分
+python scripts/analysis/detect_subsections.py 小金故事集
+
+# 检查重复句式
+python scripts/analysis/detect_repetitive_patterns.py 小金故事集
+
+# 检查角色对话一致性
+python scripts/analysis/check_dialogue_consistency.py 小金故事集
+```
+
+### 写作规范
+- **叙事视角**：第三人称限制视角，保持微观尺度感
+- **章节衔接**：每集结尾设置悬念，下一集开头必须回应
+- **格式统一**：使用"**思考与探索**"作为结尾问题标题
+- **完整检查**：详见 `CLAUDE.md` 中的写作指南
+
+### 最近的润色工作 (2026-02-25)
+- ✅ 完成所有 62 集的衔接质量检查
+- ✅ 修复 8 处章节间衔接问题
+- ✅ 统一格式，清理旧版"互动时刻"标记
+- ✅ 为所有章节添加 4 个自定义问题
+- ✅ 创建润色报告和对比样本
+- 详见 `openspec/changes/archive/2026-02-25-unify-story-style/`
 
 ---
 
