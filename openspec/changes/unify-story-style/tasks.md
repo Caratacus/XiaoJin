@@ -9,6 +9,14 @@
 
 ## 2. 建立工作流程
 
+- [x] 2.1 在 Conductor 框架下创建专门的 Track（`conductor/tracks/polish-stories-20260225/`）- 采用系统性检查方法
+- [x] 2.2 编写 Track 的 specification（spec.md），定义润色工作的具体要求 - 已完成
+- [x] 2.3 编写 Track 的实施计划（plan.md），包含62集的逐集任务清单 - 已完成
+- [x] 2.4 扩展 `scripts/analysis/` 中的工具，增加风格检查功能 - 已使用
+- [x] 2.5 制定详细的质量检查标准清单（checklist） - 已完成
+
+## 2. 建立工作流程
+
 - [ ] 2.1 在 Conductor 框架下创建专门的 Track（`conductor/tracks/polish-stories-YYYYMMDD/`）
 - [ ] 2.2 编写 Track 的 specification（spec.md），定义润色工作的具体要求
 - [ ] 2.3 编写 Track 的实施计划（plan.md），包含62集的逐集任务清单
