@@ -5,94 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df08ae6f-a4a5-4a6a-bb01-464c880d5148" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/STYLE_GUIDE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/consolidated_issues.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_01_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_02_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_03_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_04_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_05_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_06_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_08_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_09_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_10_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_11_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_12_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_13_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_14_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_15_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_16_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_17_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_18_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_19_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_20_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_21_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_22_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_23_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_24_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_25_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_26_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_27_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_28_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_29_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_30_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_31_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_32_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_33_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_34_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_35_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_36_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_37_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_38_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_39_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_40_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_41_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_42_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_43_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_44_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_45_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_46_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_47_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_48_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_49_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_50_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_51_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_52_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_53_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_54_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_55_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_56_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_57_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_58_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_59_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_60_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_61_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_62_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_63_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/plan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/code_styleguides/general.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/product-guidelines.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/product.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/setup_state.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/tech-stack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/tracks.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conductor/workflow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第39集_随风飘来的神秘焦香.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第39集_随风飘来的神秘焦香.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第40集_会“施魔法”的彩色糖果.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第40集_会“施魔法”的彩色糖果.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第41集_失去笑容的玉米粒.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第41集_失去笑容的玉米粒.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第42集_黑色战书！黑暗魔法界的挑战.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第42集_黑色战书！黑暗魔法界的挑战.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第43集_寻找“真心泉水”.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第43集_寻找“真心泉水”.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第44集_第一场对决：愤怒浓汤 VS 快乐清泉.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第44集_第一场对决：愤怒浓汤 VS 快乐清泉.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第45集_黑焰的阴谋与迷幻蘑菇.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第45集_黑焰的阴谋与迷幻蘑菇.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第46集_小玉顾问的古老食谱.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第46集_小玉顾问的古老食谱.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第47集_第二场对决：迷幻甜甜圈 VS 诚实南瓜饼.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第47集_第二场对决：迷幻甜甜圈 VS 诚实南瓜饼.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第48集_深夜的潜入行动.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第48集_深夜的潜入行动.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第49集_被阳光遗忘的黑色泥土.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第49集_被阳光遗忘的黑色泥土.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小金故事集/第50集_冰与火的厨房.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第50集_冰与火的厨房.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lore/世界观大纲.md" beforeDir="false" afterPath="$PROJECT_DIR$/lore/世界观大纲.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lore/人物志.md" beforeDir="false" afterPath="$PROJECT_DIR$/lore/人物志.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第55集_大家一起动手！王国的团结之味.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第55集_大家一起动手！王国的团结之味.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第56集_巅峰对决：霸道之味 VS 包容之味.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第56集_巅峰对决：霸道之味 VS 包容之味.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第57集_一滴感动的眼泪.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第57集_一滴感动的眼泪.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第58集_彩虹与黑色的交响曲.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第58集_彩虹与黑色的交响曲.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第59集_大航海时代：湛蓝之谜（上）.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第60集_大航海时代：湛蓝之谜（下）.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第61集_天空图书馆：智慧的永恒.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第62集_钢铁巨兽：文明的冲突与觉醒.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第63集_万种图谱：生命共同体与永恒的交响.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第63集_万种图谱：生命共同体与永恒的交响.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772181241942</updated>
-      <workItem from="1772181243375" duration="3080000" />
+      <workItem from="1772181243375" duration="7036000" />
     </task>
     <servers />
   </component>
