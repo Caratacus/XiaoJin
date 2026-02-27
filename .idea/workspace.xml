@@ -1,7 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df08ae6f-a4a5-4a6a-bb01-464c880d5148" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/STYLE_GUIDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/consolidated_issues.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_01_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_02_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_03_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_04_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_05_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_06_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_08_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_09_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_10_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_11_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_12_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_13_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_14_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_15_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_16_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_17_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_18_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_19_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_20_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_21_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_22_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_23_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_24_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_25_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_26_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_27_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_28_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_29_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_30_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_31_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_32_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_33_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_34_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_35_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_36_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_37_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_38_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_39_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_40_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_41_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_42_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_43_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_44_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_45_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_46_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_47_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_48_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_49_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_50_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_51_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_52_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_53_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_54_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_55_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_56_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_57_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_58_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_59_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_60_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_61_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_62_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/analysis/episode_63_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/plan.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/archive/analyze_lore_20260224/spec.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/code_styleguides/general.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/product-guidelines.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/product.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/setup_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/tech-stack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/tracks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conductor/workflow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第39集_随风飘来的神秘焦香.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第39集_随风飘来的神秘焦香.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第40集_会“施魔法”的彩色糖果.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第40集_会“施魔法”的彩色糖果.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第41集_失去笑容的玉米粒.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第41集_失去笑容的玉米粒.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第42集_黑色战书！黑暗魔法界的挑战.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第42集_黑色战书！黑暗魔法界的挑战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第43集_寻找“真心泉水”.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第43集_寻找“真心泉水”.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第44集_第一场对决：愤怒浓汤 VS 快乐清泉.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第44集_第一场对决：愤怒浓汤 VS 快乐清泉.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第45集_黑焰的阴谋与迷幻蘑菇.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第45集_黑焰的阴谋与迷幻蘑菇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第46集_小玉顾问的古老食谱.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第46集_小玉顾问的古老食谱.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第47集_第二场对决：迷幻甜甜圈 VS 诚实南瓜饼.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第47集_第二场对决：迷幻甜甜圈 VS 诚实南瓜饼.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第48集_深夜的潜入行动.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第48集_深夜的潜入行动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第49集_被阳光遗忘的黑色泥土.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第49集_被阳光遗忘的黑色泥土.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小金故事集/第50集_冰与火的厨房.md" beforeDir="false" afterPath="$PROJECT_DIR$/小金故事集/第50集_冰与火的厨房.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{
+  "editorReviewEnabled": false
+}]]></component>
+  <component name="GitlabMajeraCodeReviewSettings">
+    <option name="popularEmojiShortcuts">
+      <list />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleUserHome" value="$USER_HOME$/.gradle" />
@@ -34,14 +144,33 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="/develop/apache-maven-3.5.0" />
+        <option name="customMavenHome" value="/develop/apache-maven-3.5.0" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3AFH8s0DOuTTJH6S8thMquBBdfn" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{}</component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/caratacus/develop/workspace/story"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -62,5 +191,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df08ae6f-a4a5-4a6a-bb01-464c880d5148" name="Changes" comment="" />
+      <created>1772181241942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772181241942</updated>
+      <workItem from="1772181243375" duration="3080000" />
+    </task>
+    <servers />
   </component>
 </project>
