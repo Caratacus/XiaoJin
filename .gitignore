@@ -58,7 +58,6 @@ pip-delete-this-directory.txt
 # 临时分析报告
 *_report.md
 *_scan*.md
-!conductor/analysis/*.md
 
 # ========================================
 # 本地配置文件
@@ -97,6 +96,3 @@ scripts
 
 # Gemini
 .gemini/
-
-# OpenSpec
-openspec/
