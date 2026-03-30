@@ -96,3 +96,6 @@ scripts
 
 # Gemini
 .gemini/
+
+# OpenSpec
+openspec/
