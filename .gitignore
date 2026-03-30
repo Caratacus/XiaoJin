@@ -94,3 +94,6 @@ Desktop.ini
 logs/
 .claude
 scripts
+
+# OpenSpec
+openspec/
