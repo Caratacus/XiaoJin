@@ -94,10 +94,7 @@
 │   ├── 世界观大纲.md     # 地理、历史年表与物理规则
 │   └── 设定逻辑初稿.md   # 发明原理与故事核心逻辑
 ├── conductor/analysis/ # 每一集的详细分析报告
-├── scripts/            # Python 分析工具
-│   └── analysis/       # 风格检查和一致性验证脚本
-├── openspec/           # OpenSpec 变更管理
-│   └── archive/        # 已完成的变更归档
+├── docs/               # 项目文档
 ├── GEMINI.md           # 项目核心上下文
 ├── CLAUDE.md           # AI 工作指南和写作规范
 └── README.md           # 项目说明书 (本文件)
@@ -126,26 +123,6 @@
 ---
 
 ## 🔧 质量保证与工具
-
-本项目配备了完整的自动化分析工具，确保故事质量和一致性：
-
-### Python 分析工具
-```bash
-# 运行完整的故事内容分析
-python scripts/analysis/run_scan.py
-
-# 检查故事风格统一性
-python scripts/analysis/run_style_check.py 小金故事集
-
-# 检测子章节划分
-python scripts/analysis/detect_subsections.py 小金故事集
-
-# 检查重复句式
-python scripts/analysis/detect_repetitive_patterns.py 小金故事集
-
-# 检查角色对话一致性
-python scripts/analysis/check_dialogue_consistency.py 小金故事集
-```
 
 ### 写作规范
 - **叙事视角**：第三人称限制视角，保持微观尺度感

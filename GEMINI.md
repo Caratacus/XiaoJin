@@ -61,7 +61,6 @@ To find a file (e.g., "**Product Definition**") within a specific context (Proje
 **主要内容：**
 - 62 集已完成的故事，采用 Markdown 格式
 - 完整的世界观设定和人物志
-- 基于 Python 的内容一致性分析工具
 - 规范化的创作流程和文档体系
 
 ## 项目结构
@@ -77,18 +76,12 @@ To find a file (e.g., "**Product Definition**") within a specific context (Proje
 │   ├── product.md      # 产品定义
 │   ├── workflow.md     # 开发流程
 │   └── tracks.md       # 轨道注册表
-├── scripts/            # Python 分析工具
+├── docs/               # 项目文档
 ├── GEMINI.md           # 人物档案和项目上下文
 └── README.md           # 项目文档
 ```
 
 ## 常用命令
-
-### 内容分析
-```bash
-# 运行完整的故事内容分析（提取角色、地点、物品）
-python scripts/analysis/run_scan.py
-```
 
 ### Git 工作流
 本项目使用 git notes 记录详细的任务文档：
@@ -290,5 +283,4 @@ git notes show <commit_hash>
 
 1. **语言**：故事内容和项目文档始终使用简体中文
 2. **阅读顺序**：按照 `小金故事集/` 中的顺序编号
-3. **一致性**：使用 Python 分析工具验证角色和设定的一致性
-4. **上下文**：参考本文件了解人物档案，参考 `conductor/` 进行项目管理
+3. **上下文**：参考本文件了解人物档案，参考 `conductor/` 进行项目管理
