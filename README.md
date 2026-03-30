@@ -130,5 +130,3 @@
 - **完整检查**：详见 `CLAUDE.md` 中的写作指南
 
 ---
-
-> *Created by Gemini CLI Agent - 2026*
