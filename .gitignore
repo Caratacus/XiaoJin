@@ -95,5 +95,8 @@ logs/
 .claude
 scripts
 
+# Gemini
+.gemini/
+
 # OpenSpec
 openspec/
