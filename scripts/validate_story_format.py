@@ -109,6 +109,8 @@ def validate_file(path: Path) -> ValidationResult:
     issues.extend(validate_unique_sections(lines))
     issues.extend(validate_opening(lines, expected_title))
     issues.extend(validate_body(lines))
+    issues.extend(validate_recap_word_count(lines))
+    issues.extend(validate_word_count(lines))
     issues.extend(validate_ending(lines))
 
     return ValidationResult(path, issues)
@@ -178,6 +180,45 @@ def validate_body(lines: list[str]) -> list[ValidationIssue]:
     body_lines = lines[5:last_separator]
     if not any(line.strip() for line in body_lines):
         issues.append(ValidationIssue(None, "两处分隔线之间缺少正文内容。"))
+
+    return issues
+
+
+RECAP_PREFIX = "**前情回顾**："
+
+
+def validate_recap_word_count(lines: list[str]) -> list[ValidationIssue]:
+    issues: list[ValidationIssue] = []
+    recap_line = line_at(lines, 2)
+    if recap_line is None or not recap_line.startswith(RECAP_PREFIX):
+        return issues
+
+    recap_content = recap_line[len(RECAP_PREFIX):]
+    char_count = len(recap_content)
+
+    if char_count < 120:
+        issues.append(ValidationIssue(3, f"前情回顾共 {char_count} 字，不足 120 字。"))
+    elif char_count > 240:
+        issues.append(ValidationIssue(3, f"前情回顾共 {char_count} 字，超过 240 字。"))
+
+    return issues
+
+
+def validate_word_count(lines: list[str]) -> list[ValidationIssue]:
+    issues: list[ValidationIssue] = []
+    separator_indices = [index for index, line in enumerate(lines) if line == "---"]
+
+    if len(separator_indices) < 2:
+        return issues
+
+    last_separator = separator_indices[-1]
+    body_lines = lines[5:last_separator]
+    char_count = sum(len(line) for line in body_lines)
+
+    if char_count <= 2500:
+        issues.append(ValidationIssue(None, f"正文总字数 {char_count} 字，不足 2500 字。"))
+    elif char_count >= 6000:
+        issues.append(ValidationIssue(None, f"正文总字数 {char_count} 字，超过 5999 字。"))
 
     return issues
 
