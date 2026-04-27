@@ -100,3 +100,5 @@ scripts
 # OpenSpec
 openspec/
 .codex/
+.github/prompts/
+.github/skills/
