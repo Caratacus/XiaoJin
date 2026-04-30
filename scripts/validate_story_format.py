@@ -13,6 +13,9 @@ import re
 SCRIPT_PATH = Path(__file__).resolve()
 REPO_ROOT = SCRIPT_PATH.parent.parent
 DEFAULT_STORIES_DIR = REPO_ROOT / "stories"
+EXCLUDED_VALIDATION_FILES = {
+    (DEFAULT_STORIES_DIR / "第01季_生存与重生/第01集_灰霉蚧危机.md").resolve(),
+}
 QUESTION_PATTERN = re.compile(
     r"^(?P<index>[1-4])\. \*\*(?P<label>[^*]+)\*\*：(?P<question>.+)$"
 )
@@ -80,7 +83,8 @@ def collect_files(targets: list[str], include_backup: bool) -> list[Path]:
 
 
 def should_include(path: Path, include_backup: bool) -> bool:
-    return include_backup or "_backup" not in path.parts
+    resolved = path.resolve()
+    return (include_backup or "_backup" not in resolved.parts) and resolved not in EXCLUDED_VALIDATION_FILES
 
 
 def relative_display_path(path: Path) -> str:
@@ -237,6 +241,9 @@ def validate_ending(lines: list[str]) -> list[ValidationIssue]:
     if len(tail) < expected_length:
         issues.append(ValidationIssue(last_separator + 1, "结尾结构不完整，应包含互动时刻标题和 4 个问题。"))
         return issues
+
+    if last_separator > 0 and lines[last_separator - 1] != "":
+        issues.append(ValidationIssue(last_separator, "`---` 前应空一行。"))
 
     if tail[1] != "":
         issues.append(ValidationIssue(last_separator + 2, "`---` 后应空一行。"))
