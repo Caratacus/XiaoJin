@@ -2,9 +2,9 @@
 
 > *"智慧与勇气会像种子一样，在每个春天重新发芽。"*
 
-[![Status](https://img.shields.io/badge/Status-Complete-success)]()
-[![Episodes](https://img.shields.io/badge/Episodes-440-blue)]()
-[![Genre](https://img.shields.io/badge/Genre-SciFi%20%7C%20FairyTale%20%7C%20Educational-orange)]()
+[![Status](https://img.shields.io/badge/Status-Complete-success)](#-项目简介)
+[![Episodes](https://img.shields.io/badge/Episodes-440-blue)](#️-故事篇章-story-arcs)
+[![Genre](https://img.shields.io/badge/Genre-SciFi%20%7C%20FairyTale%20%7C%20Educational-orange)](#-项目简介)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blueviolet)](LICENSE)
 
 ---
@@ -13,13 +13,14 @@
 
 - [项目简介](#-项目简介)
 - [故事概要](#-故事概要)
-- [双重成长路径](#-双重成长路径)
-- [故事篇章](#-故事篇章)
-- [核心人物](#-核心人物)
-- [世界观设定](#-世界观设定)
-- [给父母和孩子们的话](#-给父母和孩子们的话)
-- [许可证](#-许可证)
-- [致谢](#-致谢)
+- [双重成长路径](#-双重成长路径-two-life-paths)
+- [故事篇章](#️-故事篇章-story-arcs)
+- [核心人物](#-核心人物-characters)
+- [世界观设定](#-世界观设定-world-building)
+- [文档索引](#-文档索引-documentation)
+- [给父母和孩子们的话](#-给父母和孩子们的话-a-letter-to-families)
+- [许可证](#-许可证-license)
+- [致谢](#-致谢-acknowledgments)
 
 ---
 
@@ -61,13 +62,13 @@
 
 故事中设计了两条截然不同但同样精彩的人生路线。每个孩子都能在小金或小彩身上看见自己的影子——不是非此即彼，而是此刻最需要听到的那种声音。
 
-> 完整的十一季成长轨迹与分季分析，请参阅 [docs/成长路线.md](docs/成长路线.md)
+> 完整的十一季成长轨迹与分季分析，请参阅 [docs/主角成长路线.md](docs/主角成长路线.md)
 
 ### 智慧建设者：小金路线 (Xiao Jin's Path)
 
 **成长关键词**：观察 · 逻辑 · 系统 · 理性的力量
 
-从"造工具帮大家解决问题"的发明家，成长为"设计规则让每个人自己站住"的规则设计者，最终成为"把位置、经验与权力真正交出去"的传承者。十一个季度，小金始终没有变过一件事——**他最厉害的能力，不是自己有多强，而是他能让身边的人变强**。
+从"造工具帮大家解决问题"的发明家，成长为"设计规则让每个人自己站住"的规则设计者，最终成为"把位置、经验与权力真正交出去"的传承者。十一季里，小金始终没有变过一件事——**他最厉害的能力，不是自己有多强，而是他能让身边的人变强**。
 
 ### 勇敢探索者：小彩路线 (Xiao Cai's Path)
 
@@ -134,9 +135,10 @@
 | 文档 | 用途 |
 | :--- | :--- |
 | [docs/STYLE_GUIDE.md](docs/STYLE_GUIDE.md) | 故事编写风格指南（篇幅、叙事、价值观等） |
-| [docs/成长路线.md](docs/成长路线.md) | 小金与小彩的逐季成长轨迹 |
+| [docs/主角成长路线.md](docs/主角成长路线.md) | 小金与小彩的逐季成长轨迹 |
 | [docs/lore/人物志.md](docs/lore/人物志.md) | 所有角色的详细档案与成长弧光 |
 | [docs/lore/世界观大纲.md](docs/lore/世界观大纲.md) | 地理、历史年表、核心规则与创作伏笔 |
+| [docs/lore/故事设定逻辑.md](docs/lore/故事设定逻辑.md) | 核心设定、叙事逻辑与故事规则补充 |
 
 ---
 
@@ -151,6 +153,8 @@
 ## 📄 许可证 (License)
 
 本项目为原创作品，采用 [GNU Affero General Public License v3.0](LICENSE) 开源许可。
+
+除非另有单独说明，仓库中的故事文本、文档和辅助脚本均按该许可证发布。转载、改编或分发时，请保留原作者与许可证信息，并遵守 AGPL-3.0 的相同许可要求。
 
 ---
 
