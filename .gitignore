@@ -101,3 +101,5 @@ openspec/
 .codex/
 .github/prompts/
 .github/skills/
+mp3/
+task.sh
