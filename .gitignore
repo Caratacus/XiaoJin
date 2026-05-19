@@ -56,7 +56,7 @@ pip-delete-this-directory.txt
 *.doc
 
 # 临时分析报告
-*_report.md
+docs/audit_reports
 *_scan*.md
 
 # ========================================
