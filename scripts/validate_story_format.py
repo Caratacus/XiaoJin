@@ -172,6 +172,10 @@ def validate_opening(lines: list[str], expected_title: str) -> list[ValidationIs
     return issues
 
 
+LEFT_DQ = "\u201c"   # “
+RIGHT_DQ = "\u201d"  # ”
+
+
 def validate_body(lines: list[str]) -> list[ValidationIssue]:
     issues: list[ValidationIssue] = []
     separator_indices = [index for index, line in enumerate(lines) if line == "---"]
@@ -184,6 +188,52 @@ def validate_body(lines: list[str]) -> list[ValidationIssue]:
     body_lines = lines[5:last_separator]
     if not any(line.strip() for line in body_lines):
         issues.append(ValidationIssue(None, "两处分隔线之间缺少正文内容。"))
+
+    issues.extend(validate_quote_pairs(lines))
+
+    return issues
+
+
+def validate_quote_pairs(lines: list[str]) -> list[ValidationIssue]:
+    """用状态机检查中文双引号配对：左引号“与右引号”必须正确开合。
+
+    状态机逻辑：
+    - 遇到左引号“：若已打开，则此左引号应为右引号（错配）
+    - 遇到右引号”：若未打开，则此右引号应为左引号（错配）
+    - 文件结束时，引号应处于关闭状态
+    """
+    issues: list[ValidationIssue] = []
+    in_quote = False
+
+    for line_no, line in enumerate(lines, start=1):
+        for col, ch in enumerate(line, start=1):
+            if ch == LEFT_DQ:
+                if in_quote:
+                    issues.append(
+                        ValidationIssue(
+                            line_no,
+                            f"第 {col} 列左引号“应为右引号”（前一个引号尚未关闭）。",
+                        )
+                    )
+                    in_quote = False
+                else:
+                    in_quote = True
+            elif ch == RIGHT_DQ:
+                if in_quote:
+                    in_quote = False
+                else:
+                    issues.append(
+                        ValidationIssue(
+                            line_no,
+                            f"第 {col} 列右引号”应为左引号“（此处没有未关闭的引号）。",
+                        )
+                    )
+                    in_quote = True
+
+    if in_quote:
+        issues.append(
+            ValidationIssue(None, "中文双引号未闭合：文件结束时仍有引号处于打开状态。")
+        )
 
     return issues
 
