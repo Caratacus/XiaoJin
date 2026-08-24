@@ -19,6 +19,12 @@ EXCLUDED_VALIDATION_FILES = {
 QUESTION_PATTERN = re.compile(
     r"^(?P<index>[1-4])\. \*\*(?P<label>[^*]+)\*\*：(?P<question>.+)$"
 )
+EXPECTED_INTERACTION_LABELS = (
+    "自我调节",
+    "换位思考",
+    "智慧与宽容",
+    "悬念预测",
+)
 RECAP_PATTERN = re.compile(r"^\*\*前情回顾\*\*：.+$")
 
 
@@ -174,6 +180,16 @@ def validate_opening(lines: list[str], expected_title: str) -> list[ValidationIs
 
 LEFT_DQ = "\u201c"   # “
 RIGHT_DQ = "\u201d"  # ”
+FORBIDDEN_DOCUMENT_TERMS = (
+    "上一集",
+    "这一集",
+    "下一集",
+    "本集",
+    "这几集",
+    "上一季",
+    "这一季",
+    "下一季",
+)
 
 
 def validate_body(lines: list[str]) -> list[ValidationIssue]:
@@ -190,6 +206,27 @@ def validate_body(lines: list[str]) -> list[ValidationIssue]:
         issues.append(ValidationIssue(None, "两处分隔线之间缺少正文内容。"))
 
     issues.extend(validate_quote_pairs(lines))
+    issues.extend(validate_story_world_text(lines))
+
+    return issues
+
+
+def validate_story_world_text(lines: list[str]) -> list[ValidationIssue]:
+    """检查英文直引号和跳出故事世界的文档编号用语。"""
+    issues: list[ValidationIssue] = []
+
+    for line_no, line in enumerate(lines, start=1):
+        if '"' in line:
+            issues.append(
+                ValidationIssue(line_no, "正文不得使用英文直引号，应改为中文双引号“”。")
+            )
+
+        matched_terms = [term for term in FORBIDDEN_DOCUMENT_TERMS if term in line]
+        if matched_terms:
+            terms = "、".join(f"“{term}”" for term in matched_terms)
+            issues.append(
+                ValidationIssue(line_no, f"正文不得出现文档元信息用语：{terms}。")
+            )
 
     return issues
 
@@ -341,9 +378,17 @@ def validate_interaction_question(line: str, expected_index: int, line_no: int) 
 
     label = matched.group("label").strip()
     question_text = matched.group("question").strip()
+    expected_label = EXPECTED_INTERACTION_LABELS[expected_index - 1]
 
     if not label:
         issues.append(ValidationIssue(line_no, f"第 {expected_index} 条互动问题缺少加粗小标题。"))
+    elif label != expected_label:
+        issues.append(
+            ValidationIssue(
+                line_no,
+                f"第 {expected_index} 条互动问题标题应为“{expected_label}”，当前为“{label}”。",
+            )
+        )
 
     if not question_text:
         issues.append(ValidationIssue(line_no, f"第 {expected_index} 条互动问题缺少具体问题内容。"))
